@@ -1,6 +1,6 @@
 ### YouTube Bookmarks
 
-Handy Google Chrome extension to make timestamp bookmarks on YouTube videos. Extension remembers video you've watched, allow you to delete and move to needed place in time. Works only on YouTube, while video is being watched.
+Google Chrome extension to make bookmarks on YouTube videos. Extension allow you to save, delete and jump to bookmarks. It works only on YouTube, while video is being watched.
 
 ### UI
 
