@@ -1,6 +1,6 @@
 ### YouTube Bookmarks
 
-Google Chrome extension to make bookmarks on YouTube videos. Extension allow you to save, delete and jump to bookmarks. It works only on YouTube, while video is being watched.
+This is a *Extension* for Google Chrome to create bookmarks for YouTube videos. It allows you to save, delete and jump to specific timestamp. Extension works only while you are on YouTube.
 
 ### UI
 
@@ -8,6 +8,8 @@ Google Chrome extension to make bookmarks on YouTube videos. Extension allow you
 
 ![Tab](https://github.com/garbalau-github/youtube-bookmarks/blob/main/screenshots/UI_Extensions.png?raw=true)
 
-### How to check?
+### Installation
+
+How to check if it works?
 
 ![Install](https://github.com/garbalau-github/youtube-bookmarks/blob/main/screenshots/Install.png?raw=true)
