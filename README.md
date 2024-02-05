@@ -5,7 +5,7 @@
 
 ### Quick Start
 
-```
+```console
 git clone https://github.com/garbalau-github/youtube-bookmarks
 ```
 
