@@ -1,5 +1,7 @@
 ### Quick Start
 
+Clone this repo
+
 ```console
 git clone https://github.com/garbalau-github/youtube-bookmarks
 ```
