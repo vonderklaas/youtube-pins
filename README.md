@@ -6,7 +6,7 @@
 ### Quick Start
 
 ```
-git clone <repo url>
+git clone https://github.com/garbalau-github/youtube-bookmarks
 ```
 
 Load extension into the browser <br />
